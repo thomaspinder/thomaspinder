@@ -1,5 +1,13 @@
 ### Hi there 👋
 
+I'm a third year PhD student in Statistics at [Lancaster University](https://www.lancaster.ac.uk/maths/).   
+Currently I'm working as an intern in the applied machine learning group at [MindFoundry](https://www.mindfoundry.ai/).    
+Broadly speaking, I'm interested in:
+- Gaussian processes
+- Approximate inference
+- Bayesian optimisation
+
+
 <!--
 **thomaspinder/thomaspinder** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
