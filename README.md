@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm a third year PhD student in Statistics at [Lancaster University](https://www.lancaster.ac.uk/maths/).   
+I'm a third year PhD student in Statistics at [Lancaster University](https://www.lancaster.ac.uk/maths/) currently working as Applied Science intern at Amazon.   
 
 Broadly speaking, I'm interested in:
 - Gaussian processes
