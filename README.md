@@ -1,26 +1,6 @@
 ### Hi there 👋
 
-I'm a third year PhD student in Statistics at [Lancaster University](https://www.lancaster.ac.uk/maths/) currently working as Applied Science intern at Amazon.   
+I'm a third year PhD student in Statistics at [Lancaster University](https://www.lancaster.ac.uk/maths/). I have spent time as an Applied Scientist at Amazon and a Machine Learning Scientist at MindFoundry. I am interested in Gaussian processes, network modelling and approximate inference.
 
-Broadly speaking, I'm interested in:
-- Gaussian processes
-- Approximate inference
-- Bayesian optimisation
-
-
-<!--
-**thomaspinder/thomaspinder** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Currently I'm working as an intern in the applied machine learning group at [MindFoundry](https://www.mindfoundry.ai/).    
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently working on embedding networks using Gaussian processes
+- 👯 I’m looking to collaborate on [GPJax](https://github.com/thomaspinder/GPJax)
